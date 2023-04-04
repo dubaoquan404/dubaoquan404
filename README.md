@@ -4,5 +4,5 @@
 
 > Fuck You 996.
 
-🇨🇳 China Shenyang ・🕹 Devops
+・🕹 Devops
 
