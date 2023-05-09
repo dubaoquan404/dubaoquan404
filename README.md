@@ -2,7 +2,4 @@
 
 ### Hello 👋
 
-> Fuck You 996.
-
-・🕹 Devops
 
